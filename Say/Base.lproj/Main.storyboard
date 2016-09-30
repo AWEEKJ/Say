@@ -754,7 +754,6 @@
                                             <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                                             <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                             <size key="minSize" width="443" height="207"/>
->>>>>>> upstream/master
                                             <size key="maxSize" width="463" height="10000000"/>
                                             <attributedString key="textStorage">
                                                 <fragment content="Write or paste text here.`Play` to play the sound via audio output.`Export` to export the sound as an .aiff file.">
@@ -934,7 +933,6 @@
                             <constraint firstItem="L9g-0O-auU" firstAttribute="leading" secondItem="m2S-Jp-Qdl" secondAttribute="leading" constant="20" id="bPI-Dg-EY2"/>
                             <constraint firstAttribute="bottom" secondItem="fXy-M6-zQQ" secondAttribute="bottom" constant="10" id="hkV-l9-6g7"/>
                             <constraint firstAttribute="trailing" secondItem="L9g-0O-auU" secondAttribute="trailing" constant="20" id="iH2-YS-7Yb"/>
->>>>>>> upstream/master
                         </constraints>
                     </view>
                     <connections>
